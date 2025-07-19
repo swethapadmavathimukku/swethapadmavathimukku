@@ -31,6 +31,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/swethapadmavathimukku/swethapadmavathimukku/output/snake.svg" alt="Snake animation" />
-
 ###
