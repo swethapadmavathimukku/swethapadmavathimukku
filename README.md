@@ -31,6 +31,6 @@
 
 <br clear="both">
 
-![Snake animation](https://github.com/swethapadmavathimukku/swethapadmavathimukku/blob/output/github-contribution-grid-snake.svg)
+
 
 ###
